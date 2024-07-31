@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/harshasenchati/Microsoft-Tailwind/blob/main/microsoft-record.gif">
+  <img src="https://github.com/harshasenchati/React-Voting-Application/blob/main/voting-record.gif">
 </div>
 
 ---
