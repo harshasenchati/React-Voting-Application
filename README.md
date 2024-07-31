@@ -44,4 +44,21 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/harshasenchati/React-Voting-Application.git
+   ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd React-Voting-Application
+   ```
+3. **Install the dependencies**:
+  ```bash
+npm install
+```
+4. **Run the development server**:
+  ```bash
+npm start
+```
+## Usage
+After following the setup steps, you can open your browser and navigate to http://localhost:3000 to view and interact with the voting application.
 
+## License
+This project is licensed under the MIT License.
